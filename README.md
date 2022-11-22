@@ -31,9 +31,8 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
 <br>
 - Libraries: &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-
-
+ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+<br>
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
@@ -107,7 +106,7 @@
 </details>
 <hr>
 <!-- <br> -->
-
+<br>
 [![@sourav_1910's Holopin board](https://holopin.me/Sourav Chandra)](https://holopin.io/@sourav_1910)
 <div align="center">
 <hr>
