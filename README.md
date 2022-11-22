@@ -3,7 +3,7 @@
 # <p align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="80" height="85" />I’m @souravchandra1910 </p>
 
 
-<p align="center"> <!-- &nbsp; &nbsp;	<a href="https://dev.to/rohits05"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a> &nbsp;&nbsp; -->
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=souravchandra1910&label=Profile%20views&color=0e75b6&style=flat" alt="souravc399" /> </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?right=true&color=FFFFFF&lines=Glad+To+See+You+Here+!+🤩+)](https://git.io/typing-svg)
@@ -29,10 +29,10 @@
 - Frameworks: &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
-<br>
+  
 - Libraries: &nbsp;
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-<br>
+
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
@@ -56,25 +56,6 @@
 -  😄 Pronouns: He/His
 
 -  ⚡ Fun fact: Sleeping in a cold room can help you slim down
-
-<!-- ### Languages and Tools::
-
-![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?&style=for-the-badge&logo=sql&ogoColor=white)
-![SQL](https://img.shields.io/badge/Flask%20-%2300599C.svg?&style=for-the-badge&logo=flask&ogoColor=white)
-
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
- -->
-
-<!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vinaysaw&show_icons=true" /></p>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedareehaquasar&theme=radical&hide_langs_below=1" /> -->
 
 
 <hr>
@@ -105,8 +86,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=souravchandra1910&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy) 
 </details>
 <hr>
-<!-- <br> -->
-<br>
+
 [![@sourav_1910's Holopin board](https://holopin.me/Sourav Chandra)](https://holopin.io/@sourav_1910)
 <div align="center">
 <hr>
