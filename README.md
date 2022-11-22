@@ -45,7 +45,7 @@
 
 - 🌱 I’m currently learning Web ,Maths, Android and Problem Solving 😋😋😋❤️.
 
-- 📫 How to reach me:&nbsp; &nbsp; <a href="https://www.linkedin.com/in/sourav-chandra-9402751b2/" target="blank"><img align="center" src="https://c.tenor.com/8q8PYGT5jW0AAAAd/linkedin-teameasil.gif" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp;  &nbsp; <a href="https://www.instagram.com/_rohit.shaw/" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2016/05/instagram-logo-redesign-design-graphics-digital-media-app_dezeen_sq.gif" alt="" height="35" width="35" style="border-radius: 45px"/></a> &nbsp;
+- 📫 How to reach me:&nbsp; &nbsp; <a href="https://www.linkedin.com/in/sourav-chandra-9402751b2/" target="blank"><img align="center" src="https://c.tenor.com/8q8PYGT5jW0AAAAd/linkedin-teameasil.gif" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp;  &nbsp;
 
 
 - 🏄‍♂️ My Coding profile:  &nbsp; &nbsp; <a href="https://codeforces.com/profile/souravc399" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" alt="" height="35" width="35" style="border-radius: 50px"/></a> &nbsp; &nbsp; <a href="https://leetcode.com/Souravchandra/" target="blank"><img align="center" src="https://camo.githubusercontent.com/cc970ca71436129d452abe304b052203754cf170951dd0a2a1903613f5b32999/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37332f65312f35342f37336531353432323031316537363365613962333033613737333865373161332e676966" alt="" height="40" width="45" /></a> &nbsp; &nbsp; <a href="https://auth.geeksforgeeks.org/user/souravc399/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="" height="35" width="35" /></a>  
@@ -84,7 +84,7 @@
 <details>
 <table style="width:100%">
   <tr>
-    <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=rohits05&show_icons=true&theme=tokyonight&count_private=false" alt="rohits05" /> &nbsp; &nbsp; &nbsp;</td>
+    <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=souravchandra1910&show_icons=true&theme=tokyonight&count_private=false" alt="#" /> &nbsp; &nbsp; &nbsp;</td>
    &nbsp; &nbsp; <td> &nbsp; &nbsp; &nbsp; <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravchandra1910&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> &nbsp; &nbsp; &nbsp;
 </td> 
 
