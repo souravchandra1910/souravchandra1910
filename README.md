@@ -114,7 +114,7 @@
   <hr>
   <!-- <br> -->
   
-  [![@sourav_1910's Holopin board](https://holopin.me/Sourav Chandra)](https://holopin.io/@sourav_1910)
+  [![@sourav_1910's Holopin board](https://holopin.me/sourav_1910)](https://holopin.io/@sourav_1910)
   <div align="center">
   <hr>
 
