@@ -85,7 +85,7 @@
 <br> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=souravchandra1910&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy) 
 </details>
-<hr>
+
 
 [![@sourav_1910's Holopin board](https://holopin.me/Sourav Chandra)](https://holopin.io/@sourav_1910)
 <div align="center">
