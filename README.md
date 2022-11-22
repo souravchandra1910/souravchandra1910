@@ -27,12 +27,15 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 - Frameworks: &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
-<br>
+
+
 - Libraries: &nbsp;
- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-<br>
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+
+
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
