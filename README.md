@@ -71,7 +71,7 @@
   </tr>
 </table>
 
-->
+
 
 <table style="width:100%">
   <tr>
@@ -79,10 +79,7 @@
   </tr>
 </table>
 <br>
-<!-- *** -->
 
-<!-- **⚙🏆 &nbsp;Trophies**
-<br> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=souravchandra1910&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy) 
 </details>
 
