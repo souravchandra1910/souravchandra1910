@@ -1,4 +1,4 @@
-<img height="350px" width="1000px" alt="GIF" src="https://thumbs.gfycat.com/MadSoftLangur-max-1mb.gif" />
+<img height="350px" width="1000px" alt="GIF" src="[https://thumbs.gfycat.com/MadSoftLangur-max-1mb.gif](https://media.tenor.com/phzTPEhdWXMAAAAC/avengers-captain-america.gif)" />
 
 # <p align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="80" height="85" />I’m @souravchandra1910 </p>
 
@@ -8,7 +8,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?right=true&color=FFFFFF&lines=Glad+To+See+You+Here+!+🤩+)](https://git.io/typing-svg)
 
-* I'm a third year undergraduate student under the department of Computer Science 🎓 in [MCKVIE, Liluah](http://www.mckvie.edu.in/). 
+* I'm a fourth year undergraduate student under the department of Computer Science 🎓 in [MCKVIE, Liluah](http://www.mckvie.edu.in/). 
 * I love to explore new technologies and leverage them to solve real-life problems ✨. 
 * Apart from that I also love to 💻. I'm currently into WebDev 🕸️ and working on my Data Structures and Algorithms 🤓.
 
